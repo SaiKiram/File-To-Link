@@ -10,8 +10,8 @@
     <br />
   </p>
   <p align="center">
-  <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
-        <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
+  <a href="https://www.google.com/url?sa=t&source=web&rct=j&url=https://playchad.com/&ved=2ahUKEwiz7dOPkv34AhVzxHMBHTzRCe0QFnoECA4QAQ&usg=AOvVaw0iByTF-w6Q7RVVYAteyFqe">
+        <img src="https://img.shields.io/badge/C-red?logo=youtube" width="200">
   </p>
 <hr>
   
